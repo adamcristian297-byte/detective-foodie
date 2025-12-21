@@ -15276,8 +15276,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::PaperNote
   noteText: 'DAILY NEWS!
 
-    A boy got liked yesterday around 8 o clock near the
-    forest.'
+    A boy got killed yesterday around 8 o clock near the
+    forest.
+
+    The police are trying to identificate who murdered the kid.'
   displayTime: 6
 --- !u!65 &1113936022
 BoxCollider:
