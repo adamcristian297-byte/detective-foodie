@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/SampleScene.unity
+    guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/StoryScene.unity
+    guid: e65a54a1bc54dd54184990dd09b35ba4
+  - enabled: 1
+    path: Assets/CrimeScene.unity
+    guid: aa0645c573ce48f4faf04c0a4228cf51
+  - enabled: 1
+    path: Assets/oras.unity
+    guid: ff13ff2202a8e664aa3c87c58d2859e9
+  - enabled: 1
+    path: Assets/Fight.unity
+    guid: 97aaa68cef74f984a9b207c6f36fa6b9
+  - enabled: 1
+    path: Assets/LoseScene.unity
+    guid: d0ace46e71ff9d247a9238fa48e8f8ce
+  - enabled: 1
+    path: Assets/WinScene.unity
+    guid: 0c972711bc12c264b9eace0c62fb9568
+  m_configObjects:
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
+  m_UseUCBPForAssetBundles: 0
