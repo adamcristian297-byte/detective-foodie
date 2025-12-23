@@ -632,7 +632,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'You have done youre job, detective.
+  m_text: 'You have done your job, detective.
 
 '
   m_isRightToLeft: 0
