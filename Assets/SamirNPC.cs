@@ -39,7 +39,7 @@ public class SamirNPC : MonoBehaviour
             if (ObjectiveManager.instance != null)
             {
                 ObjectiveManager.instance.CompleteObjective("Go back to Samir for information");
-                ObjectiveManager.instance.AddObjective("Investigate the crime scene");
+                ObjectiveManager.instance.AddObjective("Investigate in the woods");
             }
             return;
         }
