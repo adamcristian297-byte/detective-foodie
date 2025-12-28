@@ -59,5 +59,10 @@ The game focuses on exploration, dialogue, and environmental storytelling rather
 - **Engine:** Unity
 
 
+## Game Footage
+<img width="880" height="432" alt="Captură de ecran 2025-12-28 165622" src="https://github.com/user-attachments/assets/b3ff5a17-0bd3-434a-a81f-8f076f87c0ce" />
+<img width="1099" height="500" alt="Captură de ecran 2025-12-28 165547" src="https://github.com/user-attachments/assets/927778b2-a22c-44a1-ac14-d9dbcbf43040" />
 
+<img width="788" height="402" alt="Captură de ecran 2025-12-28 165713" src="https://github.com/user-attachments/assets/e652b509-f1aa-4b00-a83d-26ced5c60cf1" /><img width="703" height="288" alt="Captură de ecran 2025-12-24 015241" src="https://github.com/user-attachments/assets/9d818f3c-90e0-4521-acbe-d2f30d98a043" />
+<img width="811" height="365" alt="Captură de ecran 2025-12-24 010038" src="https://github.com/user-attachments/assets/2ee67bb2-49ac-4095-ba40-4dad16c2cf31" />
 
