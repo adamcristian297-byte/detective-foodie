@@ -35,7 +35,7 @@ The game focuses on exploration, dialogue, and environmental storytelling rather
 
 1. Clone or download the project source code:
    ```bash
-   git clone <project-repository-link>
+   git clone https://github.com/adamcristian297-byte/detective-foodie
 
 2. Extract the project folder if needed.
 3. Open the project in the appropriate game engine (Unity).
@@ -49,13 +49,15 @@ The game focuses on exploration, dialogue, and environmental storytelling rather
 2. Extract the `.zip` file to any location on your computer.
 3. Open the extracted game folder.
 4. Run the executable file:
-   - **Windows:** `GameName.exe`
+   - **Windows:** `austria.exe`
 5. The game will start automatically.
 
 ---
 
 ## Credits
 - **Game Design & Development:** Adam Cristian-Nicolae  
-- **Engine:** Unity  
+- **Engine:** Unity
+
+
 
 
